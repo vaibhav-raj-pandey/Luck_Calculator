@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Luck_Calculator/static/css/main.0a686a35.chunk.css",
+    "main.js": "/Luck_Calculator/static/js/main.7e9a07d0.chunk.js",
+    "main.js.map": "/Luck_Calculator/static/js/main.7e9a07d0.chunk.js.map",
+    "runtime-main.js": "/Luck_Calculator/static/js/runtime-main.4517807d.js",
+    "runtime-main.js.map": "/Luck_Calculator/static/js/runtime-main.4517807d.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/Luck_Calculator/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.6df58e89.chunk.js": "/Luck_Calculator/static/js/2.6df58e89.chunk.js",
+    "static/js/2.6df58e89.chunk.js.map": "/Luck_Calculator/static/js/2.6df58e89.chunk.js.map",
+    "index.html": "/Luck_Calculator/index.html",
+    "precache-manifest.eba0954479fb53188a6a0cb35a500b2a.js": "/Luck_Calculator/precache-manifest.eba0954479fb53188a6a0cb35a500b2a.js",
+    "service-worker.js": "/Luck_Calculator/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/Luck_Calculator/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.0a686a35.chunk.css.map": "/Luck_Calculator/static/css/main.0a686a35.chunk.css.map",
+    "static/js/2.6df58e89.chunk.js.LICENSE.txt": "/Luck_Calculator/static/js/2.6df58e89.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4517807d.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.6df58e89.chunk.js",
+    "static/css/main.0a686a35.chunk.css",
+    "static/js/main.7e9a07d0.chunk.js"
+  ]
+}
